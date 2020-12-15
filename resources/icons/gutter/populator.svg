@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="4.062" cy="6.078" r="4" fill="#62B543" fill-opacity=".7"/>
+    <circle cx="7.972" cy="6.039" r="4" fill-opacity=".7" style="fill: rgb(219, 88, 97);"/>
+    <path d="M 6.599 8.968 L 8.599 8.968 L 6.099 5.968 L 5.935 6.165 L 5.397 6.811 L 3.599 8.968 L 5.599 8.968 L 5.599 17.968 L 6.599 17.968 C 6.599 17.968 6.599 15.677 6.599 14.531 C 6.599 12.677 6.599 8.968 6.599 8.968 Z" style="fill: rgb(88, 138, 219);" transform="matrix(0, 1, -1, 0, 18.067, 5.869)"/>
+    <path d="M 6.507 3.013 L 8.507 3.013 L 6.007 6.013 L 3.507 3.013 L 5.507 3.013 L 5.507 -5.987 L 6.507 -5.987 L 6.507 3.013 Z" style="fill: rgb(88, 138, 219);" transform="matrix(-0.000001, 1, -1, -0.000001, 6.020006, -5.993999)"/>
+  </g>
+</svg>

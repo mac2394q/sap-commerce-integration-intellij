@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Layer_1" data-name="Layer 1" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+	.st0{fill:#AFB1B3;}
+	.st1{fill:#389FD6;}
+</style>
+  <path class="st0" d="M 14.872 11.011 L 14.872 1.711 L 0.772 1.711 L 0.772 11.011 L 6.572 11.011 L 6.572 12.411 L 5.572 14.011 L 4.172 14.011 L 4.172 15.011 L 11.272 15.011 L 11.272 14.011 L 9.872 14.011 L 9.072 12.611 L 9.072 11.011 L 14.872 11.011 Z M 1.772 2.711 L 13.872 2.711 L 13.872 10.011 L 1.772 10.011 L 1.772 2.711 Z"/>
+  <g transform="matrix(1, 0, 0, 1, -0.228642, 0.010563)">
+    <rect x="5.2" y="3.9" class="st1" width="2.2" height="2.2"/>
+    <rect x="5.2" y="7" class="st1" width="2.2" height="2.2"/>
+    <rect x="8.5" y="7" class="st1" width="2.2" height="2.2"/>
+  </g>
+  <circle class="st1" cx="9.372" cy="5.011" r="1.1"/>
+</svg>
